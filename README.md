@@ -16,6 +16,10 @@ Belajar Git (I-Dev)
 	$ git status
 	$ git add .
 	$ git status
+
+	$ git config --global user.name AriSheva
+	$ git config --global user.email ari.wmi@gmail.com
+	
 	```
 
 * [ ] Melakukan penambahan file
